@@ -1,0 +1,6 @@
+Credentials cache: API:329DEC72-39F6-469B-AFD2-A506BC26C8B2
+        Principal: fbulut@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Sep  4 10:15:22 2021  Sep  4 20:15:22 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
+Sep  4 10:15:24 2021  Sep  4 20:15:22 2021  HTTP/student-storage.42istanbul.com.tr@42ISTANBUL.COM.TR
